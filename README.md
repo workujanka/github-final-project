@@ -1,2 +1,9 @@
 # github-final-project
-Final GitHub Project — A hands-on culmination of Git and GitHub fundamentals. This repository showcases version control mastery through structured commits, branching, and collaboration workflows. Ideal for demonstrating practical skills learned in the Coursera GitHub UI course.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
